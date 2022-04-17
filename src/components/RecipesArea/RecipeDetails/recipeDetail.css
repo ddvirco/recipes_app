@@ -1,0 +1,21 @@
+.recipeDetail_app{
+    max-width: 40%;
+    position: fixed;
+    top: 30%;
+    left: 20%;
+    right: 20%;
+    transform: 'translate(-50%, -50%)'; 
+    background-color:rgb(211, 151, 199);
+    padding: 5px;
+    z-index: 1000;
+    border-radius: 10px;
+}
+
+.closeIngredientLines_app{
+    margin-left: 90%;
+}
+
+.ingredientArr_app{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}

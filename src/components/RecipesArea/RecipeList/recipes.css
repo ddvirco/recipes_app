@@ -1,0 +1,19 @@
+.input_id{
+    background-color: rgb(148, 230, 250);
+    border-color: rgb(148, 230, 250);
+    border-radius: 4px;
+    margin-left: 5px;
+}
+
+.form_app{
+    justify-content: center;
+}
+
+.allRecipes{
+    display: grid;
+    grid-template-columns: 230ox 230px ;
+    align-items: baseline;
+}
+.select_app{
+    margin-left: 5px;
+}

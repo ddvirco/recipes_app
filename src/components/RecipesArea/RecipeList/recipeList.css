@@ -1,0 +1,15 @@
+.recipesList_app{
+    padding-top: 20px;
+    height: 90%;
+    overflow: auto;
+    margin: auto;
+    display: inline;
+}
+
+.allRecipes{
+    display: inline-block;
+}
+
+.form_app{
+    margin-top: 25px;
+}

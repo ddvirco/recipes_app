@@ -1,0 +1,26 @@
+.oneRecipe {
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+    padding: 0 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px;
+}
+
+
+.recipe_img{
+    height: 200px;
+    width: 200px;
+    object-fit:cover ;
+    border-radius: 10px;
+}
+
+.recipe_ingredientLines{
+    max-width: fit-content;
+}
+
+.recipe_name{
+    /* max-width: 160px; */
+    text-align: center;
+}
